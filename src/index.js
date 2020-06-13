@@ -1,8 +1,8 @@
 import { registerBlockType } from '@wordpress/blocks';
 registerBlockType( 'wsr/block-starter', {
-    title: 'WSR Slider Block',
+    title: 'WSR Starter Block',
     icon: 'smiley',
-    category: 'layout',
+    category: 'widgets',
     edit: () => <div>Hola, mundo!</div>,
     save: () => <div>Hola, mundo!</div>,
 } );

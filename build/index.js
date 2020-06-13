@@ -102,9 +102,9 @@ __webpack_require__.r(__webpack_exports__);
 
 
 Object(_wordpress_blocks__WEBPACK_IMPORTED_MODULE_1__["registerBlockType"])('wsr/block-starter', {
-  title: 'WSR Slider Block',
+  title: 'WSR Starter Block',
   icon: 'smiley',
-  category: 'layout',
+  category: 'widgets',
   edit: function edit() {
     return Object(_wordpress_element__WEBPACK_IMPORTED_MODULE_0__["createElement"])("div", null, "Hola, mundo!");
   },
