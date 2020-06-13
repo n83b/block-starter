@@ -1,0 +1,16 @@
+{
+  "name": "wsr-block-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@wordpress/scripts": "10.0.0"
+  },
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "author": "wsr",
+  "license": "ISC"
+}
